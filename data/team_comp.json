@@ -1,0 +1,55 @@
+{
+    "Genshin Impact": {
+      "team1": [
+        {"id": 1, "name": "Albedo"},
+        {"id": 2, "name": "Alhaitham"},
+        {"id": 3, "name": "Amber"},
+        {"id": 4, "name": "Itto"}
+      ],
+      "team2": [
+        {"id": 1, "name": "Albedo"},
+        {"id": 3, "name": "Amber"},
+        {"id": 2, "name": "Alhaitham"},
+        {"id": 4, "name": "Itto"}
+      ]
+    },
+    "Honkai Star Rail": {
+      "team1": [
+        {"id": 5, "name": "Arlecchino"},
+        {"id": 6, "name": "Baizhu"},
+        {"id": 7, "name": "Barbara"},
+        {"id": 8, "name": "Beidou"}
+      ],
+      "team2": [
+        {"id": 10, "name": "HSR"},
+        {"id": 14, "name": "Kafka"},
+        {"id": 7, "name": "Barbara"},
+        {"id": 15, "name": "Test"}
+      ]
+    },
+    "Zenless Zone Zero": {
+      "team1": [
+        {"id": 11, "name": "ZZZ"},
+        {"id": 12, "name": "Allen"},
+        {"id": 11, "name": "ZZZ"}
+      ],
+      "team2": [
+        {"id": 12, "name": "Allen"},
+        {"id": 11, "name": "ZZZ"},
+        {"id": 12, "name": "Allen"}
+      ]
+    },
+    "Wuthering Waves": {
+      "team1": [
+        {"id": 9, "name": "Wuther"},
+        {"id": 13, "name": "Jingsi"},
+        {"id": 9, "name": "Wuther"}
+      ],
+      "team2": [
+        {"id": 13, "name": "Jingsi"},
+        {"id": 9, "name": "Wuther"},
+        {"id": 13, "name": "Jingsi"}
+      ]
+    }
+  }
+  

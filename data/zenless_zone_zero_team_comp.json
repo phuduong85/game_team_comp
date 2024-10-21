@@ -1,0 +1,20 @@
+{
+    "team_comps": [
+      {
+        "name": "Anomaly Hunters",
+        "characters": ["Jane", "Qingyi", "Nicole"],
+        "description": "A balanced team focusing on dealing with Anomalies and providing diverse elemental coverage."
+      },
+      {
+        "name": "Criminal Investigation Squad",
+        "characters": ["Billy", "Ellen", "Rina"],
+        "description": "A team composed of Criminal Investigation Team members, excelling in both offense and defense."
+      },
+      {
+        "name": "Elemental Chaos",
+        "characters": ["Allen", "Seth", "Piper"],
+        "description": "A team that combines various elements to create chaotic and powerful elemental reactions."
+      }
+    ]
+  }
+  

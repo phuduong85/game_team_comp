@@ -1,0 +1,19 @@
+{
+  "team_comps": [
+    {
+      "name": "National Team",
+      "characters": ["Xiangling", "Xingqiu", "Bennett", "Raiden Shogun"],
+      "description": "A powerful and versatile team composition focusing on elemental reactions and energy regeneration."
+    },
+    {
+      "name": "Morgana",
+      "characters": ["Ganyu", "Mona", "Venti", "Diona"],
+      "description": "A freeze composition that excels in crowd control and area-of-effect damage."
+    },
+    {
+      "name": "Hu Tao Vape",
+      "characters": ["Hu Tao", "Xingqiu", "Zhongli", "Albedo"],
+      "description": "A team focused on maximizing Hu Tao's damage through vaporize reactions and shield support."
+    }
+  ]
+}

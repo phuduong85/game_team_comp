@@ -1,0 +1,20 @@
+{
+    "team_comps": [
+      {
+        "name": "Elemental Fusion",
+        "characters": ["Changli", "Encore", "Jinhsi"],
+        "description": "A team that focuses on combining different elemental abilities for powerful effects."
+      },
+      {
+        "name": "Aero Assault",
+        "characters": ["Jianxin", "Jiyan", "Aalto"],
+        "description": "An Aero-focused team that excels in mobility and area control."
+      },
+      {
+        "name": "Electro Charge",
+        "characters": ["Calcharo", "Yinlin", "Xiangli Yao"],
+        "description": "A team centered around Electro characters for consistent damage and energy generation."
+      }
+    ]
+  }
+  

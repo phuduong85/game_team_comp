@@ -1,0 +1,20 @@
+{
+    "team_comps": [
+      {
+        "name": "Destruction Team",
+        "characters": ["Jing Yuan", "Tingyun", "Bronya", "Luocha"],
+        "description": "A team focused on dealing high single-target damage with strong support and healing."
+      },
+      {
+        "name": "Ice Breaker",
+        "characters": ["Gepard", "Pela", "Yanqing", "Bailu"],
+        "description": "An ice-focused team with strong defensive capabilities and consistent damage output."
+      },
+      {
+        "name": "DoT Dominance",
+        "characters": ["Kafka", "Silver Wolf", "Pela", "Luocha"],
+        "description": "A team that excels in applying and amplifying damage over time effects."
+      }
+    ]
+  }
+  
